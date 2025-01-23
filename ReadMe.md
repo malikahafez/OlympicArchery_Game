@@ -14,10 +14,28 @@ If you don't, YOU LOSE! :(
 ![Screenshot 2025-01-23 163125](https://github.com/user-attachments/assets/fef7f178-1daa-4074-b59b-c94259baa0b7)
 
 ## Controls
+### Player
 - **move forward** _up arrow_ keyboard button
 - **move backward** _down arrow_ keyboard button
 - **move right** _right arrow_ keyboard button
 - **move left** _left arrow_ keyboard button
+### Camera
+**MOVE**
+- **move forward** _w_ keyboard button
+- **move backward** _s_ keyboard button
+- **move right** _d_ keyboard button
+- **move left** _a_ keyboard button
+- **move up** _e_ keyboard button
+- **move down** _q_ keyboard button
+**ROTATE**
+- **rotate right** _l_ keyboard button
+- **rotate left** _j_ keyboard button
+- **rotate up** _i_ keyboard button
+- **rotate down** _k_ keyboard button
+**views**
+- **front** _f_ keyboard button **opposite** _h_ keyboard button
+- **top** _t_ keyboard button **opposite**
+- **side** _g_ keyboard button
   
 
 ## Technical Details
