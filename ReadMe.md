@@ -4,7 +4,7 @@ a 3D Archery themed game created using C++, OpenGL, and OpenAL
 
 ## Description
 You are an Olympic archer. <br>
-You must collect all three Olympic gems before the time runs out.
+You must collect all three Olympic gems before the time runs out.<br>
 You must shoot the targets first to be able to reach the gems.
 
 ### Objective
