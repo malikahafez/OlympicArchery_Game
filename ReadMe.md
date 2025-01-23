@@ -19,7 +19,7 @@ If you don't, YOU LOSE! :(
 - **move backward** _down arrow_ keyboard button
 - **move right** _right arrow_ keyboard button
 - **move left** _left arrow_ keyboard button
-### Camera
+### Camera<br>
 **MOVE**
 - **move forward** _w_ keyboard button
 - **move backward** _s_ keyboard button
@@ -27,6 +27,7 @@ If you don't, YOU LOSE! :(
 - **move left** _a_ keyboard button
 - **move up** _e_ keyboard button
 - **move down** _q_ keyboard button
+- <br>
 **ROTATE**
 - **rotate right** _l_ keyboard button
 - **rotate left** _j_ keyboard button
@@ -34,8 +35,8 @@ If you don't, YOU LOSE! :(
 - **rotate down** _k_ keyboard button
 **views**
 - **front** _f_ keyboard button **opposite** _h_ keyboard button
-- **top** _t_ keyboard button **opposite**
-- **side** _g_ keyboard button
+- **top** _t_ keyboard button 
+- **side** _g_ keyboard button **opposite** _b_ keyboard button
   
 
 ## Technical Details
