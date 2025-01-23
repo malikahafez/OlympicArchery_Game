@@ -13,6 +13,13 @@ If you collect all three gems before the time runs out, YOU WIN! :D
 If you don't, YOU LOSE! :(
 ![Screenshot 2025-01-23 163125](https://github.com/user-attachments/assets/fef7f178-1daa-4074-b59b-c94259baa0b7)
 
+## Controls
+- **move forward** _up arrow_ keyboard button
+- **move backward** _down arrow_ keyboard button
+- **move right** _right arrow_ keyboard button
+- **move left** _left arrow_ keyboard button
+  
+
 ## Technical Details
 This project took a lot of time and effort:
 - Every shape on the screen is created from scratch using code and mathematical calculation
